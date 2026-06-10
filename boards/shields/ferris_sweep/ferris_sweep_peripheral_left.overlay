@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "sweep.dtsi"
+#include "ferris_sweep.dtsi"

@@ -8,7 +8,7 @@
 #include "ferris_sweep.dtsi"
 // #include <behaviors/battery_history_request.dtsi>
 #include <input/processors.dtsi>
-#include <input/processors/runtime-input-processor.dtsi>
+// #include <input/processors/runtime-input-processor.dtsi>
 
 /{
     chosen {
