@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: ferris_sweep}
 layers:
-  default:
+  BASE:
   - Q
   - W
   - E
