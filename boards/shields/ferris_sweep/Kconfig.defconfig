@@ -1,7 +1,7 @@
 if SHIELD_FERRIS_SWEEP_CENTRAL_DONGLE
 
 config ZMK_KEYBOARD_NAME
-    default "Ferris_sweep-Dongle"
+    default "Ferris_sweep"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
