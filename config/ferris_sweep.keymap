@@ -55,8 +55,8 @@
         word_cap {
             bindings = <&caps_word>;
             key-positions = <10 19>;
-            timeout-ms = <20>;
-            require-prior-idle-ms = <200>;
+            timeout-ms = <60>;
+            require-prior-idle-ms = <150>;
         };
     };
 
