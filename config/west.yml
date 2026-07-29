@@ -15,37 +15,6 @@ manifest:
     - name: a741725193
       url-base: https://github.com/a741725193
   projects:
-    # - name: mario-peripheral-animation
-    #   remote: gpeye
-    #   revision: main
-    # - name: zmk
-    #   remote: cormoran
-    #   revision: v0.3-branch+dya
-    #   import: app/west.yml
-    # - name: zmk-behavior-runtime-sensor-rotate
-    #   remote: cormoran
-    #   revision: main
-    # - name: zmk-module-ble-management
-    #   remote: cormoran
-    #   revision: zmk-v0.3.0.0
-    # - name: zmk-module-battery-history
-    #   remote: cormoran
-    #   revision: main
-    # - name: zmk-module-settings-rpc
-    #   remote: cormoran
-    #   revision: main
-    # - name: zmk-module-runtime-input-processor
-    #   remote: cormoran
-    #   revision: zmk-v0.3.0.0
-    # - name: zmk-tog-io
-    #   remote: a741725193
-    #   revision: main
-    # - name: zmk-dongle-display
-    #   remote: englmaxi
-    #   revision: v0.3
-    # - name: zmk-nice-oled
-    #   remote: mctechnology17
-    #   revision: main
     - name: mario-peripheral-animation
       remote: gpeye
       revision: main 
@@ -53,9 +22,6 @@ manifest:
       remote: zmkfirmware
       revision: v0.3.0
       import: app/west.yml
-    # - name: prospector-zmk-module                 # <--- and these
-    #   remote: tokyo2006                          # <---
-    #   revision: micro_spi2  
     - name: zmk-dongle-display
       remote: englmaxi
       revision: v0.3
